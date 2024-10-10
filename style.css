@@ -1,0 +1,11 @@
+.first-container{
+    width: 850px;
+    height: 350px;
+    margin: auto;
+    text-align: center;
+    margin-top: 80px;
+}
+.background-img{
+
+ background-image: url(assets/Hero-bg.png);
+}
