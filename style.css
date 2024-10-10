@@ -18,3 +18,17 @@
     
 
 }
+.footer-container{
+    background-image: url(assets/handshake.jpg);
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    height: 330px;
+    width: 1000px;
+    margin: auto;
+    border-radius: 20px;
+    position: absolute;
+    margin-left: 200px;
+    
+    
+    
+}
